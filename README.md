@@ -12,6 +12,6 @@
 - [x] Day 4: [Problem](https://adventofcode.com/2022/day/4)
   - [Part 1 Solution](/Day%204/part1.js)
   - [Part 2 Solution](./Day%204/part2.js)
-- [ ] Day 5: [Problem](https://adventofcode.com/2022/day/5)
+- [x] Day 5: [Problem](https://adventofcode.com/2022/day/5)
   - [Part 1 Solution](/Day%205/part1.js)
   - [Part 2 Solution](./Day%205/part2.js)
